@@ -235,3 +235,25 @@
   color: var(--color-gray-100);
   font-family: var(--font-sf-pro-text);
 }
+
+/* Mobile media query */
+@media only screen and (max-width: 600px) {
+  /* Flex container changes */
+  .flex-container {
+    flex-direction: column;
+  }
+
+  /* Flex children changes */
+  .flex-item {
+    width: 100%;
+  }
+
+  /* Grid container changes */
+  .grid-container {
+    grid-template-areas: 'area1'
+                         'area2'
+                         'area3';
+    grid-template-rows: auto;
+    grid-template-columns: 1fr;
+  }
+}
