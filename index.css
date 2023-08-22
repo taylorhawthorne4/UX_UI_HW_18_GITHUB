@@ -1,0 +1,237 @@
+.about,
+.skills {
+  position: absolute;
+  top: 48px;
+  left: 0;
+}
+.about {
+  left: 117px;
+}
+.contact,
+.download-resume,
+.work {
+  position: absolute;
+  top: 48px;
+  left: 234px;
+}
+.contact,
+.download-resume {
+  left: 933px;
+}
+.contact {
+  left: 816px;
+}
+.frame,
+.image-7-icon {
+  position: absolute;
+  height: 125px;
+}
+.image-7-icon {
+  top: 0;
+  left: 474px;
+  width: 200px;
+  object-fit: cover;
+}
+.frame {
+  top: 2px;
+  left: 146px;
+  width: 1122px;
+  overflow: hidden;
+  font-family: var(--font-sf-pro-display);
+}
+.hey-im-taylor {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 234.5px);
+  text-align: center;
+  display: inline-block;
+  width: 472px;
+  height: 174px;
+}
+.frame-child {
+  position: absolute;
+  top: 162px;
+  left: 0;
+  background-color: var(--color-gainsboro);
+  border: 2px solid var(--color-gray-200);
+  box-sizing: border-box;
+  width: 446px;
+  height: 396px;
+}
+.frame-item,
+.travelrecommends {
+  position: absolute;
+  top: 337px;
+  left: 111px;
+}
+.frame-item {
+  top: 181px;
+  left: 533px;
+  width: 100px;
+  height: 100px;
+  overflow: hidden;
+}
+.travelrecommends-is-a {
+  margin: 0;
+}
+.travelrecommends-is-a-container1 {
+  line-break: anywhere;
+  width: 100%;
+}
+.travelrecommends-is-a-container {
+  position: absolute;
+  top: 182px;
+  left: 462px;
+  display: flex;
+  align-items: center;
+  width: 683px;
+  height: 363px;
+}
+.frame1 {
+  position: absolute;
+  top: 137px;
+  left: 146px;
+  width: 1145px;
+  height: 558px;
+  overflow: hidden;
+}
+.frame-inner {
+  position: absolute;
+  top: 0;
+  left: 675px;
+  background-color: var(--color-gainsboro);
+  border: 2px solid var(--color-gray-200);
+  box-sizing: border-box;
+  width: 446px;
+  height: 396px;
+}
+.this-case-study,
+.world-animal-protection {
+  position: absolute;
+  top: 175px;
+  left: 746px;
+}
+.this-case-study {
+  top: 26px;
+  left: 0;
+  display: flex;
+  align-items: center;
+  width: 672px;
+  height: 354px;
+}
+.frame2,
+.rectangle-div {
+  position: absolute;
+  height: 396px;
+}
+.frame2 {
+  top: 780px;
+  left: 170px;
+  width: 1121px;
+  overflow: hidden;
+}
+.rectangle-div {
+  top: 0;
+  left: 0;
+  background-color: var(--color-gainsboro);
+  border: 2px solid var(--color-gray-200);
+  box-sizing: border-box;
+  width: 1143px;
+}
+.about-me {
+  margin: 0;
+  font-family: var(--font-sf-pro-display);
+}
+.about-me-passions-container {
+  position: absolute;
+  top: 52px;
+  left: calc(50% - 512.5px);
+  display: inline-block;
+  width: 1025px;
+  height: 290px;
+}
+.frame3 {
+  position: absolute;
+  top: 1307px;
+  left: 148px;
+  width: 1143px;
+  height: 396px;
+  overflow: hidden;
+}
+.frame-child1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gainsboro);
+  border: 2px solid var(--color-gray-200);
+  box-sizing: border-box;
+  width: 795px;
+  height: 306px;
+}
+.figma {
+  margin-bottom: 0;
+}
+.figma-research-data-analytics {
+  margin: 0;
+  padding-left: 32px;
+}
+.my-skills-figma-container {
+  position: absolute;
+  top: 59px;
+  left: 59px;
+  display: inline-block;
+  width: 688px;
+  height: 223px;
+}
+.frame4 {
+  position: absolute;
+  top: 1804px;
+  left: 148px;
+  width: 795px;
+  height: 306px;
+  overflow: hidden;
+  font-size: inherit;
+}
+.frame-child2 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 720px);
+  background-color: var(--color-gainsboro);
+  border: 2px solid var(--color-gray-200);
+  box-sizing: border-box;
+  width: 1440px;
+  height: 125px;
+}
+.contact1,
+.copyright-2023,
+.socials {
+  position: absolute;
+  top: 48px;
+  left: calc(50% - 596px);
+}
+.contact1,
+.copyright-2023 {
+  left: calc(50% - 442px);
+}
+.copyright-2023 {
+  left: calc(50% + 481px);
+}
+.frame5 {
+  position: absolute;
+  top: 2259px;
+  left: 0;
+  width: 1440px;
+  height: 125px;
+  overflow: hidden;
+}
+.portfolio-wireframe-homepage {
+  position: relative;
+  background-color: var(--color-silver);
+  width: 100%;
+  height: 2384px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-gray-100);
+  font-family: var(--font-sf-pro-text);
+}
